@@ -1,2 +1,2 @@
 # rutuja
-project-my project
+project
